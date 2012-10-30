@@ -1,0 +1,4 @@
+cformath
+========
+
+C++ for Mathematicians
